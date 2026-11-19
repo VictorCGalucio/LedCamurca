@@ -1,1 +1,2 @@
 # LedCamurça
+Projeto criado pelos alunos Victor Consentini Galucio e Daniel Rocha do curso de Engenharia Eletrônica da Escola Superior de Tecnologia da Universidade Estadual do Amazonas. O objetivo é construir, com um Arduino Nano e um sensor IR VS1838, um receptor de comandos via controle IR, a fim de controlar a fita led rgb do laboratório do GEAR.
